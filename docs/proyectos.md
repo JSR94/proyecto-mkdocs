@@ -22,8 +22,8 @@ Proyecto de Juego de Plataformas.
 - Estado: En desarrollo.
 
 ## Resumen en tabla
-| Proyecto                        | Tecnologías                     | Estado         |
-|---------------------------------|---------------------------------|----------------|
-| Página Web para Grupo Musical   | HTML, CSS, JavaScript           | Activo         |
-| Portfolio en GitHub con MKDocs  | Markdown, GitHub Pages, MkDocs  | Finalizado     |
-| Juego Funcional con JavaScript  | HTML, CSS, JavaScript           | En desarrollo  |
+| Proyecto                        | Tecnologías                     | Estado           |
+|---------------------------------|---------------------------------|------------------|
+| Página Web para Grupo Musical   | HTML, CSS, JavaScript           | 🟢 Activo        |
+| Portfolio en GitHub con MKDocs  | Markdown, GitHub Pages, MkDocs  | ✅ Finalizado    |
+| Juego Funcional con JavaScript  | HTML, CSS, JavaScript           | 🟡 En desarrollo |

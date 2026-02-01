@@ -1,0 +1,7 @@
+site_name: Proyecto de Jesús Saorín
+site_url: https://jsr94.github.io/proyecto-mkdocs/
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md

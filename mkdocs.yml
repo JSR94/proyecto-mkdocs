@@ -8,3 +8,8 @@ nav:
   - Sobre mí: sobremi.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.superfences

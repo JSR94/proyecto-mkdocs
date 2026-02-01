@@ -1,4 +1,4 @@
-## Bienvenid@
+## Bienvenido
 
 ¡Buenas! Soy Jesús Saorín, alumno de la asignatura del FP Superior de Desarrollo de Aplicaciones Web en el IES Los Albares.
 En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.

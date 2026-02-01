@@ -17,7 +17,7 @@ Estoy aprendiendo a programar y diversas herramientas relacionadas con el entorn
 
 ## Habilidades técnicas
 
-- *Lenguajes:* HTML, CSS, JAVA.
-- *Herramientas:* VSCode, IdealJ, Github
-- *Sistemas operativos:* Linux, Windows y MacOS.
+- **Lenguajes:** HTML, CSS, JAVA.
+- **Herramientas:** VSCode, IdealJ, Github
+- **Sistemas operativos:** Linux, Windows y MacOS.
 

@@ -6,5 +6,6 @@ En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo c
 1. Un resumen de quién soy.
 2. Una lista de tecnologías que estoy aprendiendo.
 3. Algunos de los proyectos que estoy desarrollando.
+4. Cómo contactar conmigo.
 
 Puedes navegar usando el menú superior para ver el resto de secciones.

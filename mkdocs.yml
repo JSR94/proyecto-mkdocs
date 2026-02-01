@@ -5,3 +5,4 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Sobre mí: sobremi.md

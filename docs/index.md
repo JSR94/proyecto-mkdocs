@@ -1,4 +1,4 @@
-¡Buenas! Soy Jesús Saorín, alumno de la asignatura del FP Superior de Desarrollo de Aplicaciones Web en el IES Los Albares.  
+¡Buenas! Soy *Jesús Saorín*, alumno de la asignatura del *FP Superior de Desarrollo de Aplicaciones Web* en el *IES Los Albares*.  
 En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
 
 ## ¿Qué vas a encontrar aquí?
@@ -8,4 +8,4 @@ En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo c
 3. Algunos de los proyectos que estoy desarrollando.
 4. Cómo contactar conmigo.
 
-Puedes navegar usando el menú superior para ver el resto de secciones.
+_Puedes navegar usando el menú superior para ver el resto de secciones._

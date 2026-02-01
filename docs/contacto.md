@@ -6,6 +6,9 @@ Si quieres ponerte en contacto conmigo, puedes usar alguno de los siguientes med
 
 ## Ejemplo de código
 
-A continuación se muestra un pequeño ejemplo de codigo de Git:
+A continuación se muestra un pequeño ejemplo de codigo de HTML:
 
-```Usa el comando `git commit` para crear un commit.```
+```<div style="text-align:center; padding:10px; background:#4CAF50; color:white;">
+    <h3>Mi Proyecto</h3>
+    <p>Ejemplo de bloque HTML sencillo</p>
+</div>```

@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+## Bienvenid@
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+¡Buenas! Soy Jesús Saorín, alumno de la asignatura del FP Superior de Desarrollo de Aplicaciones Web en el IES Los Albares.
+En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
+## ¿Qué vas a encontrar aquí?
 
-## Commands
+1. Un resumen de quién soy.
+2. Una lista de tecnologías que estoy aprendiendo.
+3. Algunos de los proyectos que estoy desarrollando.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Puedes navegar usando el menú superior para ver el resto de secciones.

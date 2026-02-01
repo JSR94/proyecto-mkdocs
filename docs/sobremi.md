@@ -1,5 +1,3 @@
-## Sobre mí
-
 Me llamo Jesús Saorín y soy alumno del FP Superior de Desarrollo de Aplicaciones Web.
 Estoy aprendiendo a programar y diversas herramientas relacioandas con el entorno.
 

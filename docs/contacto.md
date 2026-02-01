@@ -7,4 +7,5 @@ Si quieres ponerte en contacto conmigo, puedes usar alguno de los siguientes med
 ## Ejemplo de código
 
 A continuación se muestra un pequeño ejemplo de codigo de Git:
+
 ```Usa el comando `git commit` para crear un commit.```
